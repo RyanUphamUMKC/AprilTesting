@@ -1,0 +1,10 @@
+Date: 6/26/23
+
+Location Description: motion lab mid day some light coming from outside but overcast day lights on in lab
+
+Background Description: white wall, metal junk
+
+Notes:
+bags will record for 7 seconds
+could not start error in camera on 6/26/23:
+ [realsense2_camera_node-2]  26/06 14:10:20,932 ERROR [139829648160512] (synthetic-stream.cpp:51) Exception was thrown during callback: p_counted_deleterIP4int2ZN6rscuda9alloc_devIS0_EESt10shared_ptrIT_EiEUlS1_E_SaIvELN9__gnu_cxx12_Lock_policyE2EE

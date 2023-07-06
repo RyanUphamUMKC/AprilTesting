@@ -1,0 +1,11 @@
+Date: 7/2/23
+
+Location Description: 366 classromm shades closed no outside light
+
+Background Description: white wall, white floor, some outlets
+	the light and the chair holding it appear in the scene as well. 
+
+Notes:
+this experiment is a position test follow up with lower light levels on the tag. 
+in order to darken the face of the tag a cardboard shroud was used. The light level was measured at 4EV with the shroud covering the tag. 
+could not detect on exp 28 (9,1)m with shroud on 

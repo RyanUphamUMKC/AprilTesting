@@ -1,0 +1,9 @@
+Date: 6/26/23
+
+Location Description:living room with lights on and exterior miday light comming through windows indirectly
+
+Background Description: couch, wall, carpet, flooring
+
+Notes:
+figured out the size of the apriltag was being set in the code not the config file 
+the hz must be reset if the /tf topic is stopped otherwise it will count the stop against it

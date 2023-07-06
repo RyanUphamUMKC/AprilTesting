@@ -1,0 +1,12 @@
+Series,Current,Min,Max,Average
+Start Time,-1.79769e+308
+End Time,1.79769e+308
+Current Time,0
+/tf/camera_color_optical_frame/tag36h11:1/header/stamp,1688321859.100390,1688321859.100390,1688321866.172097,1688321862.623228
+/tf/camera_color_optical_frame/tag36h11:1/rotation/w,0.074039,0.064048,0.089676,0.072429
+/tf/camera_color_optical_frame/tag36h11:1/rotation/x,0.992225,0.989609,0.994771,0.993060
+/tf/camera_color_optical_frame/tag36h11:1/rotation/y,-0.009269,-0.011317,-0.008432,-0.009875
+/tf/camera_color_optical_frame/tag36h11:1/rotation/z,-0.099613,-0.112359,-0.066117,-0.091255
+/tf/camera_color_optical_frame/tag36h11:1/translation/x,3.982834,3.974863,4.006932,3.992327
+/tf/camera_color_optical_frame/tag36h11:1/translation/y,-0.180634,-0.181043,-0.179694,-0.180638
+/tf/camera_color_optical_frame/tag36h11:1/translation/z,14.471519,14.441564,14.557029,14.505136

@@ -1,0 +1,13 @@
+Date: 7/2/23
+
+Location Description: 366 classromm shades closed no outside light
+
+Background Description: white wall, white floor, some outlets
+	the light and the chair holding it appear in the scene as well. 
+
+Notes:
+this experiment is a position test follow up with higher light levels on the tag. 
+brightness increased using white led bulb positioned roughly a foot away from the tag. the method used previously of setting the phone down in front of the tag to measure ambient light does not appear to work with this method unfortunatly as it reads the nearly same ambient light levels as without the light. The light level is estimated to be 9 and 10 EV on the tag as pointing the phone directly at the light gives a reading of 10EV and pointing the phone at the tag gives a reading of a around 9EV. 
+exp 19 (7,-2)m was patchy 
+exp 24 (8,-1)m was a little patchy as well as exp 25
+had to move tag around to get detection on exp 26 (8.5,0)m same on exp27

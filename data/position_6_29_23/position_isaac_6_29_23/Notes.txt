@@ -1,0 +1,16 @@
+Date: 6/29/23
+
+Location Description: 366 classromm shades closed no outside light
+
+Background Description: white wall, white floor, some outlets
+
+Notes:
+because of the consistant light level in the room it was not measured for every position but was measured before hand at between 5.3 and 6 ev 
+it still takes 2 to 5 attempts to get detection system working on the docker
+spoty on exp13 (6,1)m
+almost could not detect on exp14 (6.5,0)m and had to coax it to detect at all
+some pose problems exp 16 (7,1) none on exp17
+
+very spoty connection on exp 19 (7,-2)
+pose was gone completely then came back very pachy when replaced exp 20 (7.5,0)
+nothing on exp21 (8,0)

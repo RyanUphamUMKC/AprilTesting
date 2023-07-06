@@ -1,0 +1,13 @@
+Date: 6/22/23
+
+Location Description: back yard sunny day in tree shade with moving leaves around 15:00
+
+Background Description:fence, headges, trees
+
+Notes:
+testing for the max distance of detection with the isaac setup should be comparable to the 10 meter distance previously found.
+had to stop and continue next day raound 10:00 overcast day lots of sqeeters. the camera would not continue to work
+
+error given by camera again after 1 round error is :
+[realsense2_camera_node-2]  23/06 10:25:14,325 WARNING [140203628947200] (messenger-libusb.cpp:42) control_transfer returned error, index: 768, error: Resource temporarily unavailable, number: 11
+exp6 is one number so is no good

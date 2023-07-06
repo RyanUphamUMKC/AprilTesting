@@ -1,0 +1,13 @@
+Date: 6/29/23
+
+Location Description: 366 classromm shades closed no outside light
+
+Background Description: white wall, white floor, some outlets
+
+Notes:
+because of the consistant light level in the room it was not measured for every position but was measured before hand at between 5.3 and 6 ev 
+first patchy pose on exp 24 (8,-1) m no problems exp 25
+could not get pose exp 27 but after some adjustment decent pick up
+some spotyness exp 29 (9,2)m
+some spotyness exp 30 (9,-1)m
+stopped after 31 because the room was only 9 m long very impressive 

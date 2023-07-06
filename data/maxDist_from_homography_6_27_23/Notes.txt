@@ -1,0 +1,12 @@
+Date: 6/28/23
+
+Location Description: top floor hallway plaster building windows letting in light from outside, bright location for indoors
+
+Background Description:concrete floors, white walls, window looking to a house and sky
+
+Notes:
+intermitant at 5 m
+did not pick up at 6 m
+then walked back to computer after some minutes and it was itermentantly detecting at 6 m
+I believe it has something to do with the amount of light comming in from behind the tag it seems to have become more overcast in the time for reference img5 was included
+apparently my body blocking the light from the window behind the camera to the tag can change wiether the tag is picked up depending on how much light hits it

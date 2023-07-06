@@ -1,0 +1,12 @@
+Date: 
+
+Location Description: 366 classromm shades closed no outside light
+
+Background Description: white wall, white floor, some outlets
+
+Notes:
+because of the consistant light level in the room it was not measured for every position but was measured before hand at between 5.3 and 6 ev 
+exp27 (9,0)m was shaky untill I moved the tag over a quarter of an inch i believe the tape measure was interfearing as this has happened with previous tests
+exp28 (9,1)m barely got detection had to replace tag several times
+barely got detection exp30 (9,-1)m
+had to mess with exp31 (9,-2)m a lot to get it to detect it detected great when the front was slightly proped up on the tape measure
